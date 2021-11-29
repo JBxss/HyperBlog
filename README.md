@@ -10,5 +10,6 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 * El verdadero amor por las buenas prácticas
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Freddy
+* Creado por el increible BossaGOD
 
 Y como un amable recordatorio: **Este readme.md y el proyecto en general fue hecho por un amateur**.  Diseñado a forma de ejemplo. Si llegas acá NO TE LO TOMES EN SERIO ESTE PREOYECTO! 🤡
