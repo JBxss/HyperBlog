@@ -1,5 +1,5 @@
 body{
-    background: dimgrey;
+    background: crimson;
     color: chartreuse;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
@@ -24,16 +24,16 @@ body{
 }
 
 #cabecera #tagline{
-    padding: 0 0 0 1em;
+    padding: 0 0 0 1cm;
     font-weight: normal;
     font-size: 0.5cm;
 }
 
 #container{
     width: 70%;
-    padding: 1em;
+    padding: 1cm;
     text-align: left;
-    border: 1px solid rgb(0, 38, 255);
+    border: 3px solid chartreuse;
     margin: 0 auto;
 }
 
